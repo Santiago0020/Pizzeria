@@ -1,0 +1,54 @@
+body{
+    background-image: url(Imagen\ de\ pizza.jpeg);
+    padding: 20%;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 40px
+}
+h2{
+    font-size:  30px;
+}
+.established{
+    font-style: italic;
+}
+h1, h2, p{
+    text-align: center;
+}
+
+.principal{
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+hr{
+    height: 2px;
+    background-color: blueviolet;
+    border-color: blueviolet;
+}
+.ultima-linea{
+    margin-top: 25px;
+}
+h1, h2{
+    font-family: impact, serif;
+}
+.item p{
+    display: inline-block ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.sabor{
+    text-align: left;
+ width: 75%;   
+}
+.precio{
+text-align: right;
+width: 25%;
+}
+footer{
+    font-size: 14px;
+}
